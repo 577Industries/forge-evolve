@@ -5,6 +5,9 @@
 
 # forge-evolve
 
+> **Status (2026-10-15): generated design study, not evidence.** This repository was produced as a design study by a code-generation agent on 2026-10-13. Its benchmark tables, figures and numeric claims (precision, latency, clearance, timing, exception counts) are synthetic design targets emitted by the code itself, not measurements, and must not be cited as results. The maintained, measured implementation is being built in [577Industries/open-source](https://github.com/577Industries/open-source) under `programs/evolve` and `programs/kinetic`; measured results will be published there with run receipts. This repository is retained for provenance only.
+
+
 `EVOLVE` · [Product page on 577industries.com](https://www.577industries.com/evolve) · [Work reference](https://www.577industries.com/work/forge-evolve)
 
 **Deterministic legacy software and engineering artifact modernization engine: dependency discovery, Cross-Language Abstract Representation (CLAR), risk-scored decomposition, differential behavioral comparison, and tamper-evident provenance.**
